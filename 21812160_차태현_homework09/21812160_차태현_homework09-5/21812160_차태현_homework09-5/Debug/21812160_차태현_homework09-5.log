@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework09\21812160_차태현_homework09-5\21812160_차태현_homework09-5\main.cpp(13,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework09\21812160_차태현_homework09-5\21812160_차태현_homework09-5\main.cpp(20,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Time.cpp
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework09\21812160_차태현_homework09-5\21812160_차태현_homework09-5\Time.cpp(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  21812160_차태현_homework09-5.vcxproj -> C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework09\21812160_차태현_homework09-5\Debug\21812160_차태현_homework09-5.exe

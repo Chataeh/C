@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab11\21812160_차태현_Lab11\main.cpp(25,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab11\21812160_차태현_Lab11\main.cpp(30,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab11\21812160_차태현_Lab11\main.cpp(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab11\21812160_차태현_Lab11\main.cpp(41,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab11\21812160_차태현_Lab11\main.cpp(60,8): warning C4101: 'ev' :참조되지 않은 지역 변수입니다.
+  21812160_차태현_Lab11.vcxproj -> C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab11\Debug\21812160_차태현_Lab11.exe

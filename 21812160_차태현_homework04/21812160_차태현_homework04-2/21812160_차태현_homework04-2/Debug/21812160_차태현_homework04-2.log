@@ -1,0 +1,4 @@
+﻿  21812160차태현.cpp
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework04\21812160_차태현_homework04-2\21812160_차태현_homework04-2\21812160차태현.cpp(53,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework04\21812160_차태현_homework04-2\21812160_차태현_homework04-2\21812160차태현.cpp(64,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  21812160_차태현_homework04-2.vcxproj -> C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework04\21812160_차태현_homework04-2\Debug\21812160_차태현_homework04-2.exe

@@ -1,0 +1,13 @@
+﻿  gauss.cpp
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\21812160_차태현_homework08-2\gauss.cpp(13,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\21812160_차태현_homework08-2\main.cpp(27,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\21812160_차태현_homework08-2\main.cpp(28,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\21812160_차태현_homework08-2\main.cpp(29,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\21812160_차태현_homework08-2\main.cpp(31,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\21812160_차태현_homework08-2\main.cpp(68,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\21812160_차태현_homework08-2\main.cpp(74,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\21812160_차태현_homework08-2\main.cpp(21,14): warning C4101: 'size_N2' :참조되지 않은 지역 변수입니다.
+  mtrx.cpp
+  코드를 생성하고 있습니다...
+  21812160_차태현_homework08-2.vcxproj -> C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework8\21812160_차태현_homework08-2\Debug\21812160_차태현_homework08-2.exe

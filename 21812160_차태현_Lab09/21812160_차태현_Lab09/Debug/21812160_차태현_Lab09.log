@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab09\21812160_차태현_Lab09\main.cpp(19,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab09\21812160_차태현_Lab09\main.cpp(45,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  21812160_차태현_Lab09.vcxproj -> C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_Lab09\Debug\21812160_차태현_Lab09.exe

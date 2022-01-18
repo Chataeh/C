@@ -1,0 +1,2 @@
+hybird_QS_SS sorting of an iteger array(size:  1000000): hybird_QS_SS sorting took   155.96[milli-seconds]
+hybird_QS_SS sorting of an iteger array(size:  2000000): hybird_QS_SS sorting took   321.60[milli-seconds]

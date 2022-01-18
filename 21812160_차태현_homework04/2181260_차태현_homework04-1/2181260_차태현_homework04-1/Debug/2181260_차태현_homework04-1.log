@@ -1,0 +1,6 @@
+﻿  21812160차태현.cpp
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework04\2181260_차태현_homework04-1\2181260_차태현_homework04-1\21812160차태현.cpp(21,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework04\2181260_차태현_homework04-1\2181260_차태현_homework04-1\21812160차태현.cpp(71,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework04\2181260_차태현_homework04-1\2181260_차태현_homework04-1\21812160차태현.cpp(71,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework04\2181260_차태현_homework04-1\2181260_차태현_homework04-1\21812160차태현.cpp(71,11): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+  2181260_차태현_homework04-1.vcxproj -> C:\Users\user\Desktop\프로그래밍 과제\21812160_차태현_homework04\2181260_차태현_homework04-1\Debug\2181260_차태현_homework04-1.exe
